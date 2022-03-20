@@ -17,16 +17,15 @@
 </p>
 
 
-
+<h3 align="left">Github:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Y1sik&show_icons=true&locale=en" alt="ysik" /></p>
 
 
 
 <h3 align="left">BackJoon:</h3>
+```
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yun0522)](https://solved.ac/yun0522/)
-```
-
 ```
 
 
