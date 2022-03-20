@@ -25,7 +25,7 @@
 <h3 align="left">BackJoon:</h3>
 
 ```
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yun0522)](https://solved.ac/yun0522/)
+[![Solved.ac-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yun0522)](https://solved.ac/yun0522/)
 ```
 
 
