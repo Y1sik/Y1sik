@@ -29,4 +29,4 @@
 ```
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun0522)](https://solved.ac/yun0522)
