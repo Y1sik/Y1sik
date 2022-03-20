@@ -25,7 +25,8 @@
 <h3 align="left">BackJoon:</h3>
 
 ```
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yun0522">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 ```
 
 
