@@ -23,9 +23,9 @@
 
 
 <h3 align="left">BackJoon:</h3>
+
 ```
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yun0522)](https://solved.ac/yun0522/)
+
 ```
 
 
